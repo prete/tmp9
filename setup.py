@@ -10,7 +10,7 @@ def get_requirements():
 
 setuptools.setup(
     name="cellphonedb",
-    version="5.0.0,
+    version="5.0.0",
     packages=setuptools.find_packages(),
     install_requires=get_requirements(),
     python_requires='>=3.6'
